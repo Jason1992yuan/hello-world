@@ -1,2 +1,2 @@
 # hello-world
-a new repository
+hello, i am a newer to github!
